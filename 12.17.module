@@ -5,9 +5,10 @@ notes:
 2. train score is large does not mean test score will large
 3. considering there are error, real score(submit) may larger or less than test score.
 
-delete room<50.5, sports<53  
-|epoch |sports(train) | room(test) | sports(test) | game(test) |
-| --- | --- | --- |
+delete room<50.5, sports<53
+
+| epoch | sports(train) | room(test) | sports(test) | game(test) |
+| :-----: | :-----: | :-----: | :-----: | :-----: |
 | 51 | 52.28 | 50.27 | 53.32 |  |
 | 66 | 52.01 | 50.51 | 52.97 |  |
 | 85 | 52.25 | 50.53| 52.69 |  |
