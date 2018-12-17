@@ -27,7 +27,7 @@ delete room<50.5, sports<53
 | 216 | 52.60 | 50.61 | 53.01 |  |
 
 
-this some data which are not efficent  
+these are some data which are not efficent  
 |epoch |sports(train) | room(test) | sports(test) | game(test) |
 | --- | --- | --- |
 | 57 | 52.23 | 50.17 | 52.66 | 49.10 |
